@@ -1,0 +1,26 @@
+img {
+
+    width: 90px;
+    
+    
+    height: 90px;
+    
+    float: left;
+    
+    }
+    
+    #idCard {background: grey;
+    font-Family:verdana;
+    color:black;
+    margin-Left:25px;
+    
+    
+    border: 5px solid black;
+    
+    height: 14em;
+    
+    width: 25em;
+    
+    }
+    body {background-color:#42b0f4;
+      text-align: center;}
